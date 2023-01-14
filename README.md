@@ -15,12 +15,7 @@ blindPuzzle
 ##technologies & tools
 ###SwiftUI-SwiftImage
 
-##Demo od your app (1-2 mins)
-
-
-
-Uploading FILE 1444-06-21 14:03:00.mp4…
-
+##Demo App 
 
 ##challenge summray
 we aspire to add many features to the application such as (hint , adding a picture of your choice and using it for natural person and also for those who suffers from color blindness).
