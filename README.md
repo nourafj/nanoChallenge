@@ -2,18 +2,18 @@
 blindPuzzle
 
 ## big idea 
-### colorBlind
+colorBlind
 
 ## challenge statment 
-###This application will add fun to those who suffer from blue color blindness by playing the puzzle with the colors that they can distinguish
+This application will add fun to those who suffer from blue color blindness by playing the puzzle with the colors that they can distinguish
 
 ##solution concept
-###playing with pleasure as he can see and distinguish the colors of the pictures and buttons, which makes it easier for someone to slove the puzzle easier
+playing with pleasure as he can see and distinguish the colors of the pictures and buttons, which makes it easier for someone to slove the puzzle easier
 
 
 
 ##technologies & tools
-###SwiftUI-SwiftImage
+SwiftUI-SwiftImage
 
 ##Demo App 
 
